@@ -1,0 +1,29 @@
+body div.contenedor {
+  display: flex;
+  width: 960px;
+  min-height: 620px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e5e5e5;
+  flex-direction: column;
+}
+
+html body div.contenedor h2.titulo {
+  margin: 0;
+  margin-left: 70px;
+  margin-top: 70px;
+  font-family: "Poppins", sans-serif;
+  font-size: 50px;
+}
+
+.contenedor > p.texto {
+  width: 527px;
+  height: 150px;
+  margin: 0;
+  margin-left: 70px;
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  color: black;
+}
