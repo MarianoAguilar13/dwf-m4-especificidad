@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
 body div.contenedor {
   display: flex;
   width: 960px;
@@ -5,7 +7,7 @@ body div.contenedor {
   margin: 0;
   margin-left: auto;
   margin-right: auto;
-  background-color: #e5e5e5;
+  background-color: #fafafa;
   flex-direction: column;
 }
 
